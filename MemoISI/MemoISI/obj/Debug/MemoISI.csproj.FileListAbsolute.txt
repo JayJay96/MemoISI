@@ -1,1 +1,9 @@
 C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\bin\Debug\MemoISI.exe.config
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\bin\Debug\MemoISI.exe
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\bin\Debug\MemoISI.pdb
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.csprojResolveAssemblyReference.cache
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.FMemo.resources
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.Properties.Resources.resources
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.csproj.GenerateResource.Cache
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.exe
+C:\Users\Epulapp\Documents\Cours\ISI\MemoISI\MemoISI\MemoISI\obj\Debug\MemoISI.pdb
