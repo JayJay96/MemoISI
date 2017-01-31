@@ -12,7 +12,6 @@ namespace MemoISI
         public void test()
         {
             Bitmap[] test = { };
-            RandomiseArray.RandomPermutation(test);
         }
     }
 }

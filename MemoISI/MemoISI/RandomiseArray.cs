@@ -1,30 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MemoISI
 {
     static class RandomiseArray
     {
-        private static Random random = new Random();
+        private static Random rng = new Random();
 
-        public static Bitmap[] RandomPermutation(Bitmap[] sequence)
+        public static void Shuffle<T>(this IList<T> list)
         {
-            for (int i = 0; i < sequence.Length - 1; i += 1)
+            int n = list.Count;
+            while (n > 1)
             {
-                int swapIndex = random.Next(i, sequence.Length);
-                if (swapIndex != i)
-                {
-                    Bitmap temp = sequence[i];
-                    sequence[i] = sequence[swapIndex];
-                    sequence[swapIndex] = temp;
-                }
+                n--;
+                int k = rng.Next(n + 1);
+                T value = list[k];
+                list[k] = list[n];
+                list[n] = value;
             }
-
-            return sequence;
         }
     }
 }
